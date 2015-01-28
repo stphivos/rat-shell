@@ -1,6 +1,6 @@
 Windows Remote Access Trojan (RAT) using .NET Sockets
 
-A client-server example of controlling a remote machine behind a NAT with a command-line shell in Windows. Although the core provides support for communication with multiple RATs, the command-line interface used has limited capabilities distinguishing each one.
+Client-server binaries and source-code for controlling a remote machine behind a NAT with a command-line shell in Windows. Although the core provides support for communication with multiple RATs, the command-line interface used has limited capabilities distinguishing each one.
 
 Contains the source code and the two binaries packaged using ILMerge.
 
