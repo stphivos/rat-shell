@@ -6,12 +6,10 @@ Contains the source code and the two binaries packaged using ILMerge.
 
 Instructions:
 
-1. Start the server in a command-line acting as the RAT (Binaries\rat.exe):
-
+1. Start the server in a command-line acting as the RAT (Binaries\rat.exe) -> 
 rat ip=[controller-ip-address] port=[controller-port-default-is-9999]
 
-2. Start the client in a command-line acting as the controller (Binaries\controller.exe):
-
+2. Start the client in a command-line acting as the controller (Binaries\controller.exe) -> 
 controller ip=[listen-ip-address] port=[listen-port-default-is-9999]
 
 3. Issue commands from the controller.exe interface
